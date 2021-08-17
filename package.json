@@ -1,0 +1,25 @@
+{
+  "name": "glowml",
+  "version": "1.0.0",
+  "description": "api for glow.ml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glow-bot/glow-ml.git"
+  },
+  "keywords": [
+    "url"
+  ],
+  "author": "Googlefan256 <info@glow-bot.com> (https://glow-bot.com/)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Glow-bot/glow-ml/issues"
+  },
+  "homepage": "https://github.com/Glow-bot/glow-ml#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
